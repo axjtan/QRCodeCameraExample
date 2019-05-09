@@ -6,7 +6,7 @@ Summary
 ------
 Clone the source code locally
 ```
-cd Desktop/ &&n git clone https://github.com/axjtan/QRCodeCameraExample.git
+cd Desktop/ && git clone https://github.com/axjtan/QRCodeCameraExample.git
 cd QRCodeCameraExample/ && npm install
 ```
 Run on Android:
