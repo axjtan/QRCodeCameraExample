@@ -6,7 +6,6 @@ Difference from reference is the use of 'Alert' instead of 'console'
 
 ## Summary
 
-------
 Clone the source code locally
 
 ```bash
